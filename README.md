@@ -32,8 +32,12 @@ The datasets were meticulously cleaned to ensure data accuracy and consistency.
 1.	**Poverty Rate in each US State**  
 The analysis reveals that Alabama has the highest poverty rate, while New Hampshire and North Montana exhibit the lowest rates.  
 
+![Poverty Rate in each US State](newplot.png)
+
 2.	**High School Graduation Rate by US State**  
 Examining high school completion rates indicates that Massachusetts, Hawaii, and Connecticut have the highest numbers of high school graduates, whereas Texas, Mississippi, and Georgia have the lowest numbers.  
+
+![High School Graduation Rate by US State](newplot(2).png)
  
 3.	**Relationship between Poverty Rates and High School Graduation Rates**  
 A negative correlation was observed between poverty rates and high school graduation rates, implying that higher poverty rates are associated with lower graduation rates and vice versa. Most data points cluster in the top-left quadrant, indicating that the majority of states have low poverty rates and high graduation rates.  
