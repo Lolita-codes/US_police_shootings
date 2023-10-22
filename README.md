@@ -52,7 +52,7 @@ The racial composition, including White, Black, Hispanic, Asian, and Native Amer
 ![Racial makeup of each US State](download4.png)
  
 5.	**People killed by Race**  
-The analysis reveals that Black individuals constitute approximately half of the population of victims,  while Native American individuals are the least targeted victims.
+The analysis reveals that Black individuals constitute approximately half of the population of victims,  while Native American individuals are the least targeted victims.  
 ![People killed by Race](newplot3.png)
 
 6.	**Total Number of Deaths of Men and Women**  
