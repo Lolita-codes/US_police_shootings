@@ -42,7 +42,7 @@ Examining high school completion rates indicates that Massachusetts, Hawaii, and
 3.	**Relationship between Poverty Rates and High School Graduation Rates**  
 A negative correlation was observed between poverty rates and high school graduation rates, implying that higher poverty rates are associated with lower graduation rates and vice versa. Most data points cluster in the top-left quadrant, indicating that the majority of states have low poverty rates and high graduation rates.  
 
-![Relationship between Poverty Rates and High School Graduation Rates](newplot2.png)
+![Relationship between Poverty Rates and High School Graduation Rates](newplot2a.png)
 ![Relationship between Poverty Rates and High School Graduation Rates](download2.png)
 ![Relationship between Poverty Rates and High School Graduation Rates](download3.png)
 
@@ -53,7 +53,7 @@ The racial composition, including White, Black, Hispanic, Asian, and Native Amer
  
 5.	**People killed by Race**  
 The analysis reveals that Black individuals constitute approximately half of the population of victims,  while Native American individuals are the least targeted victims.  
-![People killed by Race](newplot3.png)
+![People killed by Race](newplot3a.png)
 
 6.	**Total Number of Deaths of Men and Women**  
 The data illustrated that the majority of fatalities are men.  
